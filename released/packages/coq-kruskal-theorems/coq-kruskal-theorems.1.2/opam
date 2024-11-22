@@ -26,9 +26,9 @@ depends: [
 ]
 
 url {
-  src: ""
+  src: "https://github.com/DmxLarchey/Kruskal-Theorems/releases/download/1.2/Kruskal-Theorems-1.2.tar.gz"
   checksum: [
-    "sha256="
+    "sha256=fcaae51f970d68be837dac59520d0aae0bbaba1d522d9e25466580c3f1c2646d"
   ]
 }
 
